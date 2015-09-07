@@ -1,8 +1,8 @@
 # RubyonRails_HIRING
+
+<strong>Ruby on Rails Engineer | Melbourne </strong>
+
 We're hiring a Ruby on Rails Engineer to work in a global product company. 
-
-<strong>Ruby on Rails Engineer - Global Product</strong>
-
 Build upon a groundbreaking, industry disrupting Rails-based product in a high caliber team.
 &nbsp;
 <ul>

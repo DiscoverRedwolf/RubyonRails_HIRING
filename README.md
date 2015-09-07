@@ -6,9 +6,9 @@ We're hiring a Ruby on Rails Engineer to work in a global product company.
 Build upon a groundbreaking, industry disrupting Rails-based product in a high caliber team.
 &nbsp;
 <ul>
-	<li>$100K - $120K+</li>
-	<li>Great location, close to St. Kilda beach</li>
-	<li>Join a smart, passionate and friendly company</li>
+	<li>$100K - $120K+ Super</li>
+	<li>St. Kilda Rd. location</li>
+	<li>A smart, passionate and friendly company</li>
 </ul>
 &nbsp;
 <strong>About the company</strong>
@@ -41,8 +41,12 @@ Become part of something truly exciting.
 
 &nbsp;
 
-If you would like more information about this incredible opportunity, please contact Bart or Paul via apply@redwolfconsulting.com.au referencing the Job Title at the top of the page.
+If you would like more information about this incredible opportunity, please contact Bart via apply@redwolfconsulting.com.au (or give me a ring on 0404 499 046) referencing the Job Title at the top of the page.
 
-<strong>APPLY NOW. Referrals rewarded!</strong>
+Please complete this coding challenge and submit with your application:
 
-(Valid PR or Australian citizenship required)
+https://github.com/DiscoverRedwolf/toyrobot
+
+To apply, email: apply@redwolfconsulting.com.au with the heading: Ruby Gem
+
+Good luck and we look forward to hearing from you. Bart
